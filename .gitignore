@@ -1,0 +1,8 @@
+cifar-*/
+*.tar.gz
+lightning_logs/
+data/
+SimCLR/
+__pycache__/
+tiny-imagenet-200/
+tiny-imagenet-200.zip
